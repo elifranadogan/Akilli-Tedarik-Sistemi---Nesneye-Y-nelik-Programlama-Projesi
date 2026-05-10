@@ -1,0 +1,49 @@
+2026-05-02 16:52:40 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-02 16:52:40 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-02 16:52:42 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-02 16:52:42 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-02 16:52:43 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-02 16:52:44 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-02 16:52:44 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-02 16:52:44 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-02 16:52:47 - HATA: Kargodaki ürün iptal edilemez, sadece iade süreci başlatılabilir.
+2026-05-02 16:53:15 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-02 16:53:15 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-02 16:53:16 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-02 16:53:17 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-02 16:53:18 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-02 16:53:18 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-02 16:53:22 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-02 16:53:22 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-02 16:53:23 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-02 16:55:39 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-02 16:55:39 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-02 16:55:41 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-02 16:55:41 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-02 16:55:42 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-02 16:55:42 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-02 16:55:45 - HATA: Kargodaki ürün iptal edilemez, sadece iade süreci başlatılabilir.
+2026-05-02 16:55:45 - HATA: Kargodaki ürün iptal edilemez, sadece iade süreci başlatılabilir.
+2026-05-02 17:38:31 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-02 17:38:31 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-02 17:38:32 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-02 17:38:33 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-02 17:38:33 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-02 17:38:33 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-02 17:38:36 - Sipariş teslim edildi.
+2026-05-04 14:29:44 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-04 14:29:44 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-04 14:29:47 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-04 14:29:47 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-04 14:29:52 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-04 14:29:52 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-04 14:29:53 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-04 14:29:53 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-04 14:29:56 - Sipariş teslim edildi.
+2026-05-04 14:38:01 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-04 14:38:01 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-04 14:38:02 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-04 14:38:02 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-04 14:38:02 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-04 14:38:02 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-04 14:38:05 - Sipariş teslim edildi.

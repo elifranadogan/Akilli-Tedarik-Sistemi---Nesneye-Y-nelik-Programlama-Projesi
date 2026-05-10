@@ -1,0 +1,10 @@
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\bin\Debug\AkilliTedarikSistemi.exe.config
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\bin\Debug\AkilliTedarikSistemi.exe
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\bin\Debug\AkilliTedarikSistemi.pdb
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.csproj.AssemblyReference.cache
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.Form1.resources
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.Properties.Resources.resources
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.csproj.GenerateResource.cache
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.csproj.CoreCompileInputs.cache
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.exe
+C:\Users\erana\source\repos\AkilliTedarikSistemi\AkilliTedarikSistemi\obj\Debug\AkilliTedarikSistemi.pdb

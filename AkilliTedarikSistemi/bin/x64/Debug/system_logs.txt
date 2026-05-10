@@ -1,0 +1,8 @@
+2026-05-10 15:55:17 - 1500,00 TL tutarındaki ödeme Kredi Kartı ile alındı.
+2026-05-10 15:55:17 - Arayüzden yeni bir sipariş tetiklendi.
+2026-05-10 15:55:19 - Sipariş beklemeden 'Onaylandı' durumuna geçti.
+2026-05-10 15:55:20 - Sipariş 'Onaylandı' durumundan 'Hazırlanıyor' durumuna geçti.
+2026-05-10 15:55:20 - Sipariş 'Hazırlanıyor' durumundan 'Kargoda' durumuna geçti.
+2026-05-10 15:55:20 - Aras Kargo API ile gönderildi: Sipariş No: 123
+2026-05-10 15:55:23 - Sipariş teslim edildi.
+2026-05-10 15:55:26 - Teslim edilen ürün iptal edilemez, iade prosedürü uygulanmalıdır.
