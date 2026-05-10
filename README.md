@@ -1,0 +1,1 @@
+# Akilli-Tedarik-Sistemi---Nesneye-Y-nelik-Programlama-Projesi
